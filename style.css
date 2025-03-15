@@ -15,6 +15,14 @@ main{
     color: white;
 }
 
+.nav-item a:hover{
+    color: red;
+}
+
+.nav-tabs .nav-link.active{
+    color: red;
+}
+
 header{
     background-image: url("bg.jpg");
     padding: 90px;
